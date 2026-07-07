@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a passionate C++ programmer and Machine Learning enthusiast.<br><br>- Solved 3000+ programming problems across multiple online judges<br>- Active on Codeforces, LeetCode, GeeksforGeeks, CodeChef, AtCoder, and more<br>- Strong problem-solving and algorithmic thinking skills<br>- Experienced in software engineering projects and development<br>- Completed my BSc in Computer Science & Engineering<br>- Conducted thesis research in Machine Learning<br>- Interested in building real-world Machine Learning and AI projects<br><br>I enjoy learning new technologies, exploring data-driven solutions, and improving my development skills every day.
+Hi, I'm a passionate Competitive Programmer, Problem Solver and Machine Learning enthusiast.<br><br>- Solved 3000+ programming problems across multiple online judges<br>- Active on Codeforces, LeetCode, GeeksforGeeks, CodeChef, AtCoder, and more<br>- Strong problem-solving and algorithmic thinking skills<br>- Experienced in software engineering projects and development<br>- Completed my BSc in Computer Science & Engineering<br>- Conducted thesis research in Machine Learning<br>- Interested in building real-world Machine Learning and AI projects<br><br>I enjoy learning new technologies, exploring data-driven solutions, and improving my development skills every day.
 
 
 ## 🌐 Socials:
