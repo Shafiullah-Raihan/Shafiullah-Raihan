@@ -1,6 +1,25 @@
 # 💫 About Me:
 Hi, I'm a passionate Competitive Programmer, Problem Solver and Machine Learning enthusiast.<br><br>- Solved 3400+ programming problems across multiple online judges<br>- Active on Codeforces, LeetCode, GeeksforGeeks, CodeChef, AtCoder, and more<br>- Strong problem-solving and algorithmic thinking skills<br>- Experienced in software engineering projects and development<br>- Completed my BSc in Computer Science & Engineering<br>- Conducted thesis research in Machine Learning<br>- Interested in building real-world Machine Learning and AI projects<br><br>I enjoy learning new technologies, exploring data-driven solutions, and improving my development skills every day.
 
+# 🧑‍💻 Coding Profiles:
+
+- **[Codeforces](https://codeforces.com/profile/Shafiullah_Raihan)**
+- **[LeetCode](https://leetcode.com/u/shafiullah-raihan/)**
+- **[GeeksForGeeks](https://www.geeksforgeeks.org/profile/shafiullahraihan)**
+- **[CodeChef](https://www.codechef.com/users/ms_raihan)**
+- **[VJudge](https://vjudge.net/user/ms_raihan)**
+- **[Beecrowd](https://judge.beecrowd.com/en/profile/350847)**
+- **[UVA Online Judge](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)**
+- **[CSES](https://cses.fi/user/289875)**
+- **[HackerEarth](https://www.hackerearth.com/@shafiullahraihan/)**
+- **[Code360](https://www.naukri.com/code360/profile/msraihan)**
+- **[SPOJ](https://www.spoj.com/myaccount/)**
+- **[HackerRank](https://www.hackerrank.com/profile/shafiullahraiha1)**
+- **[InterviewBit](https://www.interviewbit.com/profile/shafiullah-raihan_832/)**
+- **[LightOJ](https://lightoj.com/user/shafiullah-raihan)**
+- **[AtCoder](https://atcoder.jp/users/ms_raihan)**
+- **[Toph](https://toph.co/u/shafiullahraihan)**
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shafiullah.raihan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shafiullahraihan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shafiullah-raihan) 
