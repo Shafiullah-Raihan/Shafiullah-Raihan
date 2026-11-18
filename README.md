@@ -5,7 +5,7 @@
 
 I am a Computer Science and Engineering graduate passionate about building impactful software, solving complex algorithmic problems, and exploring intelligent, data-driven solutions.
 
-With **3,600+ problems solved** across multiple online judges, I have developed strong foundations in algorithms, data structures, and computational problem-solving. Alongside software development, I am actively interested in ** Artificial Intelligence, Machine Learning, and interdisciplinary research **.
+With **3,600+ problems solved** across multiple online judges, I have developed strong foundations in algorithms, data structures, and computational problem-solving. Alongside software development, I am actively interested in **Artificial Intelligence, Machine Learning, and interdisciplinary research**.
 
 - 🎓 BSc in Computer Science & Engineering
 - 💻 3,600+ programming problems solved
