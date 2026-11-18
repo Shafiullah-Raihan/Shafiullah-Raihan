@@ -1,36 +1,167 @@
-# 💫 About Me:
-Hi, I'm a passionate Competitive Programmer, Problem Solver and Machine Learning enthusiast.<br><br>- Solved 3600+ programming problems across multiple online judges<br>- Active on Codeforces, LeetCode, GeeksforGeeks, CodeChef, AtCoder, and more<br>- Strong problem-solving and algorithmic thinking skills<br>- Experienced in software engineering projects and development<br>- Completed my BSc in Computer Science & Engineering<br>- Conducted thesis research in Machine Learning<br>- Interested in building real-world Machine Learning and AI projects<br><br>I enjoy learning new technologies, exploring data-driven solutions, and improving my development skills every day.
 
-# 🧑‍💻 Coding Profiles:
+# Hi, I'm Mohammed Shafiullah Raihan 👋
 
-- **[Codeforces](https://codeforces.com/profile/Shafiullah_Raihan)**
-- **[LeetCode](https://leetcode.com/u/shafiullah-raihan/)**
-- **[GeeksForGeeks](https://www.geeksforgeeks.org/profile/shafiullahraihan)**
-- **[CodeChef](https://www.codechef.com/users/ms_raihan)**
-- **[VJudge](https://vjudge.net/user/ms_raihan)**
-- **[Beecrowd](https://judge.beecrowd.com/en/profile/350847)**
-- **[UVA Online Judge](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)**
-- **[CSES](https://cses.fi/user/289875)**
-- **[HackerEarth](https://www.hackerearth.com/@shafiullahraihan/)**
-- **[Code360](https://www.naukri.com/code360/profile/msraihan)**
-- **[SPOJ](https://www.spoj.com/myaccount/)**
-- **[HackerRank](https://www.hackerrank.com/profile/shafiullahraiha1)**
-- **[InterviewBit](https://www.interviewbit.com/profile/shafiullah-raihan_832/)**
-- **[LightOJ](https://lightoj.com/user/shafiullah-raihan)**
-- **[AtCoder](https://atcoder.jp/users/ms_raihan)**
-- **[Toph](https://toph.co/u/shafiullahraihan)**
+### Software Engineer | Competitive Programmer | Machine Learning Researcher
 
+I am a Computer Science and Engineering graduate passionate about building impactful software, solving complex algorithmic problems, and exploring intelligent, data-driven solutions.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shafiullah.raihan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shafiullahraihan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shafiullah-raihan) 
+With **3,600+ problems solved** across multiple online judges, I have developed strong foundations in algorithms, data structures, and computational problem-solving. Alongside software development, I am actively interested in Artificial Intelligence, Machine Learning, and interdisciplinary research.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://streak-stats.demolab.com/?user=Shafiullah-Raihan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shafiullah-Raihan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🎓 BSc in Computer Science & Engineering
+- 💻 3,600+ programming problems solved
+- 🧠 Research experience in Machine Learning and Artificial Intelligence
+- 🔬 Published journal articles and research preprints
+- 🚀 Interested in scalable software engineering and real-world AI applications
+- 🌍 Open to software engineering opportunities, research collaborations, and PhD opportunities
 
 ---
-## Thank you 
 
+## 🧑‍💻 Technical Expertise
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
+
+### Web & Application Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+### Machine Learning & Data Science
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+## 🔬 Research & Publications
+
+My research interests lie at the intersection of Artificial Intelligence, Machine Learning, emerging technologies, and data-driven decision-making.
+
+I am particularly interested in applying computational methods to practical challenges and developing research-driven technological solutions.
+
+### 📚 Journal Articles
+
+**1. Artificial Intelligence Readiness and Technology Adoption among Healthcare Professionals in Bangladesh: Evidence from Partial Least Squares Structural Equation Modeling**
+
+- **Journal:** American Journal of Smart Technology and Solutions
+- **Publication Date:** November 10, 2026
+- **Volume:** 5, Issue 2
+- **DOI:** [10.54536/ajsts.v5i2.8903](https://doi.org/10.54536/ajsts.v5i2.8903)
+- **Research Areas:** Artificial Intelligence, Healthcare Technology, Technology Adoption, PLS-SEM
+
+**2. Simulation of BGP Prefix Hijacking, Traffic Engineering, and Policy-Based Mitigation in a Multi-ISP Mini-Internet Using GNS3**
+
+- **Author:** Mohammed Shafiullah Raihan
+- **Journal:** International Journal of Current Academic Trends in Multidisciplinary
+- **Publication Date:** November 14, 2026
+- **Type:** Journal Article
+- **DOI:** [10.5281/zenodo.24217374](https://doi.org/10.5281/zenodo.24217374)
+- **Research Areas:** Computer Networking, BGP Security, Network Simulation, Traffic Engineering
+
+### 📝 Preprints
+
+**3. Research Square Preprint**
+
+- **Platform:** Research Square
+- **Date:** October 13, 2026
+- **Type:** Preprint
+- **Contributor:** Mohammed Shafiullah Raihan
+- **DOI:** [10.21203/rs.3.rs-11345363/v1](https://doi.org/10.21203/rs.3.rs-11345363/v1)
+
+---
+
+## 🏆 Competitive Programming
+
+I enjoy competitive programming as a way to strengthen algorithmic thinking, analytical reasoning, and problem-solving abilities.
+
+### 3,600+ Problems Solved
+
+| Platform | Profile |
+|:---|:---|
+| Codeforces | [Profile](https://codeforces.com/profile/Shafiullah_Raihan) |
+| LeetCode | [Profile](https://leetcode.com/u/shafiullah-raihan/) |
+| GeeksforGeeks | [Profile](https://www.geeksforgeeks.org/profile/shafiullahraihan) |
+| CodeChef | [Profile](https://www.codechef.com/users/ms_raihan) |
+| AtCoder | [Profile](https://atcoder.jp/users/ms_raihan) |
+| VJudge | [Profile](https://vjudge.net/user/ms_raihan) |
+| Beecrowd | [Profile](https://judge.beecrowd.com/en/profile/350847) |
+| CSES | [Profile](https://cses.fi/user/289875) |
+| HackerRank | [Profile](https://www.hackerrank.com/profile/shafiullahraiha1) |
+| HackerEarth | [Profile](https://www.hackerearth.com/@shafiullahraihan/) |
+| Code360 | [Profile](https://www.naukri.com/code360/profile/msraihan) |
+| SPOJ | [Profile](https://www.spoj.com/myaccount/) |
+| UVA Online Judge | [Profile](https://onlinejudge.org/) |
+| InterviewBit | [Profile](https://www.interviewbit.com/profile/shafiullah-raihan_832/) |
+| LightOJ | [Profile](https://lightoj.com/user/shafiullah-raihan) |
+| Toph | [Profile](https://toph.co/u/shafiullahraihan) |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shafiullah-Raihan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Shafiullah-Raihan&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiullah-Raihan&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+I am open to connecting with software engineers, researchers, academics, and potential PhD supervisors.
+
+<p align="left">
+  <a href="https://linkedin.com/in/shafiullah-raihan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://facebook.com/shafiullah.raihan">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook" />
+  </a>
+  <a href="https://instagram.com/shafiullahraihan">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building, learning, researching, and solving problems , one step at a time."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
